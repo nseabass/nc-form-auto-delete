@@ -17,4 +17,4 @@ Disclosure: This was mostly vibe-coded (AI generated/assisted). I am an end user
    * Skim through the output until you find your form title in the <title> field, then look two lines up for <id>. This ID goes in your form_id variable
 3. Test the script on your form by running it manually with Python
 4. Automate it
-  * I am using Cron because it's nice and easy
+    * I am using Cron because it's nice and easy
